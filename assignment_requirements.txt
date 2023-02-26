@@ -1,0 +1,10 @@
+README:
+    - summary of findings
+    - link to notebook
+Jupyter Notebook:
+
+Use of multiple regression models
+Grid Search
+Coefficient in modelsclear identification of eval metric
+clear rationale for use of given evealuation
+
